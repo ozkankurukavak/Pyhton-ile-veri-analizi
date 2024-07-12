@@ -1,0 +1,6 @@
+Kart_Tipi,Gelir,Risk,Mavi_Kart_Indirim,Altın_Kart_Indirim,Eski_Müşteri_Promosyonu
+Mavi Kart,$60-$80,Düşük,0.2,0.0,
+Mavi Kart,$80-$120,Düşük,0.1,0.0,
+Altın Kart,$60-$80,Düşük,0.0,0.1,
+Altın Kart,$80-$120,Yüksek,0.0,0.05,
+Eski Müşteri,Kayıp,Yüksek,0.0,0.0,Tatil Paketi
